@@ -1,0 +1,16 @@
+PODS:
+  - AlipayWrapper (0.1.0)
+
+DEPENDENCIES:
+  - AlipayWrapper (from `../`)
+
+EXTERNAL SOURCES:
+  AlipayWrapper:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AlipayWrapper: 8aae3b88d3b005db4f3cbe1b9ef405b50e721e67
+
+PODFILE CHECKSUM: fc20e0ff46904946f2bd9a863c43ca41ff7ec145
+
+COCOAPODS: 1.2.1
